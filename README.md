@@ -110,9 +110,9 @@ pip install -r requirements.txt
 # Run pipeline (example)
 python src/train_model.py --model xgboost --feature_method mrmr --wavelet haar --window_size 256 --level 3
 
-📖 Citation
+##📖 Citation
 Demir, H., et al. (2024, Nov). Comparing Performances of Different ML Algorithms Based on Feature Selection Techniques for Epileptic Seizure Detection. ODSIE 2024, Istanbul, Turkey.
 
-🙌 Acknowledgments
+##🙌 Acknowledgments
 This project is funded by TÜBİTAK, The Scientific and Technological Research Council of Turkey.
 
